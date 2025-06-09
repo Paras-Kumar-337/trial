@@ -4,3 +4,5 @@ Git Commands:
 2. git status
 3. git add (For all files => git add .)
 4. git commit -m "First commit"
+5. git branch (add name for new creation)
+6. git switch <branch-name>
