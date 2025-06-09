@@ -8,3 +8,6 @@ Git Commands:
 6. git branch (add name for new creation)
 7. git switch <branch-name>
 8. git branch -M main (changing to main)
+9. git remote add origin <link-to-github-repo>
+10. git push -u origin main
+11. git fetch
