@@ -7,3 +7,4 @@ Git Commands:
 5. git merge <branch-name>
 6. git branch (add name for new creation)
 7. git switch <branch-name>
+8. git branch -M main (changing to main)
