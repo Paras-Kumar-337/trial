@@ -11,3 +11,4 @@ Git Commands:
 9. git remote add origin <link-to-github-repo>
 10. git push -u origin main
 11. git fetch
+12. git pull
